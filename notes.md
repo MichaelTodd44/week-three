@@ -1,1 +1,12 @@
+Transform a text file using Regular Expressions
+Clean it further with Open Refine
+Visualize the results through networks
+Extra: networks in R
 
+My computer had to restart due to Java, however I will re-type as to what I did step-by step. There are a few pictures that I took in which I had some problems, but everything else within the Networking section seemed to go rather smoothly as a process. There was only a small hiccup for the first two.
+Within REGEX, I had an isse with the conda install -c anaconda curl command as it was stuck on Solving enviroment for roughly five-to-ten minutes before finally bringing up a pop up which stated that Anaconda was out of date, and I had to update it as a means to acquire the curl upon my PC.
+The second issue that had arisen was the command  curl http://archive.org/stream/diplomaticcorre33statgoog/diplomaticcorre33statgoog_djvu.txt > texas.txt which stuck on the line of code. It created a pop-up stating 'Searching sources' if I recall to my memoery or along the lines of that, but the code still did not move, and I could not interact with the Powershell prompt. When I looked into my files, the command did work...Somewhat. It created  a texas.txt file, but the entire file was empty and I couldn't use it at all. However, I went to the orignal source of the file, and decided to copy and paste the entire file manually, which took roughly 5-10 minutes as there was over 53000 lines within the document. 
+Little did I know...Which if I had foresight, I would have read a little further as I only nedded to use the 2000 lines of Code, and not waste 10 minutes scrolling my mousewheel to copy and paste. 
+The Sublime Text, and the REDEX situation was rather interesting to me, as it essentially allows you to edit, or clean which is rather obvious, but I never realized it would be possible to do so. Perhaps I am just old fashioned, but all my editting has been by hand, as most of my papers are essays and such. 
+When I downloaded Open-refine, it made me download Java, even though I already have it upon my PC. At this point, I was starting to believe that my PC is the issue rather than the commands, but it was just a small thought.
+Afterwards though, everything ended up being rather smooth, after that. The Networking section was rather interesting as well. Despite my ignorance in most things such as Metadata, it really opened my eyes up to marvels that analyzing Digital History can occur. 
